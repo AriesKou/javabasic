@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/about_Collections/about_Collections.iml" filepath="$PROJECT_DIR$/about_Collections/about_Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/about_builder/about_builder.iml" filepath="$PROJECT_DIR$/about_builder/about_builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/about_calendar/about_calendar.iml" filepath="$PROJECT_DIR$/about_calendar/about_calendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/about_ellipse/about_ellipse.iml" filepath="$PROJECT_DIR$/about_ellipse/about_ellipse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/about_ifelse/about_ifelse.iml" filepath="$PROJECT_DIR$/about_ifelse/about_ifelse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/about_inheritance/about_inheritance.iml" filepath="$PROJECT_DIR$/about_inheritance/about_inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/about_localdatetime/about_localdatetime.iml" filepath="$PROJECT_DIR$/about_localdatetime/about_localdatetime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/about_logical/about_logical.iml" filepath="$PROJECT_DIR$/about_logical/about_logical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/about_singleton/about_singleton.iml" filepath="$PROJECT_DIR$/about_singleton/about_singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/about_staticfactory/about_staticfactory.iml" filepath="$PROJECT_DIR$/about_staticfactory/about_staticfactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/about_variables/about_variables.iml" filepath="$PROJECT_DIR$/about_variables/about_variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javabasic.iml" filepath="$PROJECT_DIR$/javabasic.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="about_builder" />
+        <module name="about_calendar" />
+        <module name="about_Collections" />
+        <module name="about_ellipse" />
+        <module name="about_ifelse" />
+        <module name="about_inheritance" />
+        <module name="about_localdatetime" />
+        <module name="about_logical" />
+        <module name="about_singleton" />
+        <module name="about_staticfactory" />
+        <module name="about_variables" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="about_builder" target="1.5" />
+      <module name="about_calendar" target="1.5" />
+      <module name="about_Collections" target="1.5" />
+      <module name="about_ellipse" target="1.5" />
+      <module name="about_ifelse" target="1.5" />
+      <module name="about_inheritance" target="1.5" />
+      <module name="about_localdatetime" target="1.5" />
+      <module name="about_logical" target="1.5" />
+      <module name="about_singleton" target="1.5" />
+      <module name="about_staticfactory" target="1.5" />
+      <module name="about_variables" target="1.5" />
+      <module name="javabasic" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
